@@ -1,0 +1,6 @@
+Faculdade Uniesp
+Curso: Ciência da Computação
+Disciplina: Introdução a Programação
+Nome: Seu nome completo
+
+Trabalhando dentro de outro repositorio
